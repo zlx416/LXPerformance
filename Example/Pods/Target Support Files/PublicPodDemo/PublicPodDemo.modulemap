@@ -1,0 +1,6 @@
+framework module PublicPodDemo {
+  umbrella header "PublicPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
