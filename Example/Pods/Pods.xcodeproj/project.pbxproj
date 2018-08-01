@@ -49,17 +49,6 @@
 		8755E3A789D21852F68BED4DEC5F8CDD /* Pods-PublicPodDemo_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PublicPodDemo_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93A7ECD5BB897A09F95DD9F2158A467A /* Pods-PublicPodDemo_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PublicPodDemo_Example.modulemap"; sourceTree = "<group>"; };
-		9B4966FE2111A27C0055D0C8 /* LHPerformanceUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHPerformanceUtil.h; sourceTree = "<group>"; };
-		9B4966FF2111A27C0055D0C8 /* LHPerformanceUtil.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LHPerformanceUtil.m; sourceTree = "<group>"; };
-		9B4967002111A27C0055D0C8 /* LHPerformanceConfig.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LHPerformanceConfig.m; sourceTree = "<group>"; };
-		9B4967012111A27D0055D0C8 /* LHPerformanceLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHPerformanceLabel.h; sourceTree = "<group>"; };
-		9B4967022111A27D0055D0C8 /* LHPerformanceMonitorService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHPerformanceMonitorService.h; sourceTree = "<group>"; };
-		9B4967032111A27D0055D0C8 /* LHPerformanceStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LHPerformanceStatusBar.m; sourceTree = "<group>"; };
-		9B4967042111A27D0055D0C8 /* LHPerformanceMonitorService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LHPerformanceMonitorService.m; sourceTree = "<group>"; };
-		9B4967052111A27D0055D0C8 /* LHPerformanceTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHPerformanceTypes.h; sourceTree = "<group>"; };
-		9B4967062111A27D0055D0C8 /* LHPerformanceStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHPerformanceStatusBar.h; sourceTree = "<group>"; };
-		9B4967072111A27D0055D0C8 /* LHPerformanceLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LHPerformanceLabel.m; sourceTree = "<group>"; };
-		9B4967082111A27D0055D0C8 /* LHPerformanceConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHPerformanceConfig.h; sourceTree = "<group>"; };
 		A632F057D0A432F81C81D7050AD40C3F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A71B845876F6AC6D5283E6A28FBDAEFD /* Pods-PublicPodDemo_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PublicPodDemo_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		BF4821CB96DAFBC6F583895B1189AA99 /* Pods-PublicPodDemo_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PublicPodDemo_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -172,17 +161,6 @@
 		8E9AD5EAC6CB4E84DAA92DA161A7D512 /* PublicPodDemo */ = {
 			isa = PBXGroup;
 			children = (
-				9B4967082111A27D0055D0C8 /* LHPerformanceConfig.h */,
-				9B4967002111A27C0055D0C8 /* LHPerformanceConfig.m */,
-				9B4967012111A27D0055D0C8 /* LHPerformanceLabel.h */,
-				9B4967072111A27D0055D0C8 /* LHPerformanceLabel.m */,
-				9B4967022111A27D0055D0C8 /* LHPerformanceMonitorService.h */,
-				9B4967042111A27D0055D0C8 /* LHPerformanceMonitorService.m */,
-				9B4967062111A27D0055D0C8 /* LHPerformanceStatusBar.h */,
-				9B4967032111A27D0055D0C8 /* LHPerformanceStatusBar.m */,
-				9B4967052111A27D0055D0C8 /* LHPerformanceTypes.h */,
-				9B4966FE2111A27C0055D0C8 /* LHPerformanceUtil.h */,
-				9B4966FF2111A27C0055D0C8 /* LHPerformanceUtil.m */,
 				5D238F6D54F431A4016AE641BFA1E651 /* Support Files */,
 			);
 			name = PublicPodDemo;
