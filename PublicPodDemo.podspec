@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PublicPodDemo'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '测App性能工具'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zlx416/PublicPodDemo'
+  s.homepage         = 'https://github.com/zlx416/LXPerformance.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zlx416' => 'zhanglixin@okjiaoyu.cn' }
-  s.source           = { :git => 'https://github.com/zlx416/PublicPodDemo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/zlx416/LXPerformance.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
